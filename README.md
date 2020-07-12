@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Howdy, I'm Ben.
+
+I'm a computer science student at [Clemson University](https://www.clemson.edu). You'll find various projects that I've worked on over time hosted here.
 
 <!--
 **BenJetson/BenJetson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
